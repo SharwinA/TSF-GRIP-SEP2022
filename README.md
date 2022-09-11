@@ -1,3 +1,4 @@
+<img align = right height = 120 width = 120 src = https://internship.thesparksfoundation.info/assests/img/logo.png>
 # TSF-GRIP-SEP2022
 The Graduate Rotational Internship Program is a unique offer for students and recent graduates to experience and join The Sparks Foundation.
 
