@@ -1,4 +1,4 @@
-<img align = right height = 120 width = 120 src = https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHadoop_logo.svg&psig=AOvVaw10cPLF7ZroG55z0U_KEzM8&ust=1669473580131000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNiuyO7HyfsCFQAAAAAdAAAAABAE>
+<img align = right height = 120 width = 120 src = https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg>
 
 # TSF-GRIP-SEP2022
 
